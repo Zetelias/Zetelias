@@ -13,7 +13,7 @@ I'm mostly self-taught, studies are too slow and not deep enough for my taste.
 - Rust 🦀
 - Python (although it's not my favourite and most of the time shouldn't be used) 🐍
 
-I've made a bunch of projects with those, most aren't public.
+I didn't only write "Hello World" and make a number guessing game with those: i've made a bunch of projects with 'em, although most aren't public.
 
 ## Let's Connect!
 
