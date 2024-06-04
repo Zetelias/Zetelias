@@ -6,13 +6,13 @@ Hey there! 👋 I'm a computer science student based in the beautiful south of F
 
 Although i study computer science, i've self taught myself a majority of what i know.
 
-### Technologies I'm Proficient In:
+### Technologies I'm Proficient In, by order of proficiency:
 I didn't only write "Hello World" and make a number guessing game with those: I've made a bunch of projects with them. See my repositories tab for the public, finished projects.
-- Git & Branches
-- C# 
-- C++ 
+- C++
 - Rust
+- C#
 - Python
+- Git and branches
 
 ### Can also dabble In:
 - QT6
