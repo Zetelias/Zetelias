@@ -8,22 +8,26 @@ Although i study computer science, i've self taught myself a majority of what i 
 
 ### Technologies I'm Proficient In:
 I didn't only write "Hello World" and make a number guessing game with those: I've made a bunch of projects with them. See my repositories tab for the public, finished projects.
-- Git & Branches 🌳
-- C# ⚙️
-- C++ 🖥️
-- Rust 🦀
-- Python 🐍
+- Git & Branches
+- C# 
+- C++ 
+- Rust
+- Python
+
+### Can also dabble In:
+- QT6
+- Go
+- Unreal Engine
+- C
+- OS dev
+- Web dev
+- Scala
+- Kotlin
 
 ### Technologies I am learning
-I am learning these technologies to diversify my skillset and learn more about dev.
-- Go 🐹
-- Java ☕
-- OCaml 🐫
-- Kotlin 💜
-- Typescript 📜
-- QT 6 🧩
-- Blazor ☄️
-- Avalonia 🪟
+I am learning these, no way?
+- Zig
+- FSharp
 
 ## Let's Connect!
 
