@@ -25,7 +25,6 @@ I didn't only write "Hello World" and make a number guessing game with those: I'
 - Java
 
 ### Technologies I am learning
-I am learning these, no way?
 - FSharp
 
 ## Let's Connect!
