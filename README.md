@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm a computer science student based in the beautiful south of France, passionate about coding and learning new technologies.
+Hey there! 👋 I'm a computer science student based in the south of France, passionate about coding and learning new technologies.
 
 ## Background
 
@@ -18,15 +18,14 @@ I didn't only write "Hello World" and make a number guessing game with those: I'
 - QT6
 - Go
 - Unreal Engine
+- Godot
 - C
 - OS dev
 - Web dev
-- Scala
-- Kotlin
+- Java
 
 ### Technologies I am learning
 I am learning these, no way?
-- Zig
 - FSharp
 
 ## Let's Connect!
